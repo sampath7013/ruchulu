@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { API_URL } from '../../../src/api.js'
+import { API_URL } from '../../api'
 import { useParams } from 'react-router-dom'
 import TopBar from './TopBar'
 
