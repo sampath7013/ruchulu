@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { API_URL } from "../../api";
+import { API_URL } from "../api";
 import { Link } from "react-router-dom";
 
 const FirmCollections = () => {
